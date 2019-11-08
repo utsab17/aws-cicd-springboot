@@ -1,4 +1,4 @@
-This Spring Boot Application is integrated with Github and AWS CodeBuild to establish CICD Pipeline
+This Simple Spring Boot Application is integrated with Github and AWS CodeBuild to establish CICD Pipeline
 
 Used Technologies:
 
