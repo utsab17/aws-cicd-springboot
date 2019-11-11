@@ -10,6 +10,6 @@ public class MyController{
 
     @GetMapping
     public String hello(){
-        return "Hello From Des Moines";
+        return "Hello From Spring Boot";
     }
 }
